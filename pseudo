@@ -1,0 +1,8 @@
+Create grid layout
+    3x3
+    add hover visuals
+
+add event listener to each grid section using a for loop
+ for (let i = 0; i < 9, i++) {
+     if ()
+ }
